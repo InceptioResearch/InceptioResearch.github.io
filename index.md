@@ -1,6 +1,7 @@
 ## Welcome to AutoTruckSim
 Autonomous Truck Simulation for Intelligence Environments
-![avatar](https://github.com/InceptioResearch/InceptioResearch.github.io/img/banner.png)
+
+![avatar](https://github.com/InceptioResearch/InceptioResearch.github.io/blob/main/img/banner.png)
 ### Abstract
 In this paper, we introduce AutoTruckSim, an open-sourced autonomous truck simulation environment for intelligent algorithm development and fast deployment. AutoTruckSim is developed based on the middle-ware ROS2, and provides three independent and decouplable modules: sensor simulation, traffic simulation, and truck model. Current simulation environments for autonomous driving techniques are mainly focusing on passenger cars, our proposed AutoTruckSim is the first autonomous driving simulator for heavy duty trucks. 
 
